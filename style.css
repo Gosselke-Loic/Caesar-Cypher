@@ -1,0 +1,29 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: orangered;
+    text-decoration: underline;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.input{
+    font-size: large;
+    padding: 1rem;
+    margin: 0 1rem 0 1rem;
+}
+
+.button{
+    padding: 0 1rem 0 1rem;
+    font-size: large;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+}
